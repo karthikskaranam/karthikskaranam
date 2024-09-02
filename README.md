@@ -6,7 +6,7 @@ DATA  &nbsp;|&nbsp;  ANALYTICS &nbsp; |&nbsp;  BUSINESS INTELLIGENCE &nbsp; |  &
 - 🔭 I’m currently working as a Data Analyst for a US based company/clinet remotely from Germany.
 - 🌱 I’m currently working on SQL, Python, Power BI, Azure
 - 👨‍💻 Certified Google Data Analytics Professional and Microsoft Power BI Data Analyst Associate
-- 📫 Reach me: linkedin.com/in/karthikskaranam/
+- 📫 Reach me: progforthis99@gmail.com
 - ⚡ Fun fact: Jack of all trades, master of none
 
 ###
