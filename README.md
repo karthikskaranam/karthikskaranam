@@ -2,11 +2,17 @@
 Welcome to my profile...
 
 # 💫 About Me:
-🔭 I’m currently working as a Data Analyst for a US based company/client remotely from Germany.<br>🌱 I’m currently working on SQL, Python, Fabric, Power BI, Azure.<br>👨‍💻 Certified Microsoft Fabric Analytics Engineer Associate and Microsoft Power BI Data Analyst Associate.<br>📫 Reach me: progforthis99@gmail.com<br>⚡ Fun fact: Jack of all trades, master of none.
+🔭 I’m currently working as a Data Analyst for a US based company/client remotely from Germany.<br>🌱 I’m currently working on SQL, Python, Fabric, Power BI, Azure.<br>📫 Reach me: progforthis99@gmail.com<br>⚡ Fun fact: Jack of all trades, master of none.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthikskaranam/) 
+
+## 👨‍💻 Certifications:
+Certified Microsoft Fabric Analytics Engineer Associate
+<br> Microsoft Power BI Data Analyst Associate.
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
