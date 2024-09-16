@@ -8,8 +8,9 @@ Welcome to my profile...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthikskaranam/) 
 
 ## 👨‍💻 Certifications:
-Microsoft Fabric Analytics Engineer Associate
-<br> Microsoft Power BI Data Analyst Associate
+
+&nbsp;&nbsp;&nbsp;<img height="15" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> &nbsp;Microsoft Fabric Analytics Engineer Associate<br>
+&nbsp;&nbsp;&nbsp;<img height="15" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> &nbsp;Microsoft Power BI Data Analyst Associate
 
 
 
