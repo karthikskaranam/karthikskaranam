@@ -28,11 +28,7 @@ Welcome to my profile...
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=t17sk18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=t17sk18&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=t17sk18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
