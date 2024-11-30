@@ -2,7 +2,7 @@
 Welcome to my profile...
 
 ## 💫 About Me:
-🔭 I’m working as a Data Analyst for a US-based company/client remotely from Germany.<br>🌱 I’m working on SQL, Python, Azure Eco System - Microsoft Fabric, - Azure Synapse, Data Factory, and Power BI. <br>📫 Reach me: progforthis99@gmail.com<br>⚡ Fun fact: Jack of all trades, master of none.
+🔭 I’m working as a Sr. Data Analyst and Business Analyst for a US-based company/client remotely from Germany.<br>🌱 I’m working on SQL, Python, Azure Eco System - Microsoft Fabric, - Azure Synapse, Data Factory, and Power BI. <br>📫 Reach me: progforthis99@gmail.com<br>⚡ Fun fact: Jack of all trades, master of none.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthikskaranam/) 
